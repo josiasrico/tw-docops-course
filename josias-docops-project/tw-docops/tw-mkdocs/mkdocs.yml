@@ -1,0 +1,14 @@
+site_name: Josias Rico - Technical Writer
+nav:
+  - About: about.md
+  - Technical Information: index.md
+  - Test Page: testpage.md
+  - 'Section Test':
+    - 'Test Page': 'testpage.md'
+
+theme:
+  name: material
+  logo: images/wizeline_isotype.png
+
+extra_css:
+  - css/extra.css
