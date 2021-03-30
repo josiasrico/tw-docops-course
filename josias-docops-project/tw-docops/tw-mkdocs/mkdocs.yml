@@ -1,10 +1,11 @@
 site_name: Josias Rico - Technical Writer
 nav:
   - About: about.md
-  - Technical Information: index.md
-  - Test Page: testpage.md
-  - 'Section Test':
-    - 'Test Page': 'testpage.md'
+  - Skills: techskills.md
+  - Background: background.md
+  - 'Education': 'background.md#Education'
+  - 'Experience': 'background.md#Experience'
+    - 'Freelance Experience': 'background.md#Freelance Experience'
 
 theme:
   name: material
