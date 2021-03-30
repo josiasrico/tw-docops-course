@@ -1,11 +1,14 @@
-site_name: Wizeline MkDocs Template
+site_name: Josias MkDocs Workshp
 nav:
-  - Home: index.md
   - About: about.md
+  - Technical Information: index.md
+  - Test Page: testpage.md
+  - 'Section Test':
+    - 'Test Page': 'testpage.md'
 
 theme:
   name: material
-  palette:
-    primary: black
-    accent: indigo
   logo: images/wizeline_isotype.png
+
+extra_css:
+  - css/extra.css
