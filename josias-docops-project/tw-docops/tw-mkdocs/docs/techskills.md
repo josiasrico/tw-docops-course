@@ -4,11 +4,11 @@
 * Git
 * Agile
 * Dubbing Translation
-* Spanish and English
-** Grammar
-** Sentences structure
-** Style Guides
-** Peer reviews
+* Spanish and English:
+  * Grammar
+  * Sentences structure
+  * * Style Guides
+  * * Peer reviews
 * Change Management
 * Project Management
 

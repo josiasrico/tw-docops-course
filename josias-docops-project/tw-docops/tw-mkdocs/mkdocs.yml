@@ -2,8 +2,9 @@ site_name: Josias Rico - Technical Writer
 nav:
   - About: about.md
   - Skills: techskills.md
-  - Background: 'background.md'
-  
+  - Background:
+    - 'Selected Past Work': 'background.md'
+
 theme:
   name: material
   logo: images/wizeline_isotype.png

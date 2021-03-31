@@ -1,7 +1,3 @@
-## Education
-* MM. Innovation for Enterprise Development - Tecnológico de Monterrey
-* BS. Computer Science and Technology - Tecnológico de Monterrey
-
 ## Experience
 * Technical Writer | Wizeline | 2020-Present
 * Technical Writer | GE Aviation | 2019-2020
@@ -10,8 +6,13 @@
 
 ### Selected Past Work
 * **GDPR and NIST 800-53 Compliance:** researched, analyzed requirements, and documented a self-assessment for compliance
-* **Vulnerability Management Guidelines:** documented and edited guidelines for use across division.
+* **Vulnerability Management Guidelines:** documented and edited guidelines for use across the division.
 * **Knowledge Management Wiki:** edited and implemented a repository that helped the Support team.
+* **UX Research for a data-processing platform:** helped designing interviews, analyzed information to improve documentation pain-points, proposed documentation improvements.
+
+## Education
+* MM. Innovation for Enterprise Development - Tecnológico de Monterrey
+* BS. Computer Science and Technology - Tecnológico de Monterrey
 
 ## Freelance Experience
 * English-Latin Spanish dubbing translation and Quality Control | SDI Media | 2018-2019
