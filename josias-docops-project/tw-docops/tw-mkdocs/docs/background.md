@@ -8,7 +8,7 @@
 * Technical Writer | Wizeline | 2020-Present
 * Technical Writer | GE Aviation | 2019-2020
 * IT Change Manager and Technical Writer | Santander US | 2016-2019
-* High School Professor | Tecnológico de Monterrey | 2016 - 2019
+* High School Teacher | Tecnológico de Monterrey | 2016 - 2019
 
 ### Freelance Experience
 * English-Latin Spanish dubbing translation and Quality Control | SDI Media | 2018-2019
